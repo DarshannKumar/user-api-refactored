@@ -123,7 +123,7 @@ Encourages future scalability and unit testing
 - Assisted in initial debugging and resolving configuration issues during:
   - **SQLite database path handling**
   - **Clarifying `__init__.py` usage and Python package imports**
-  - **Writing README and CHANGELOG markdown files**
+
 
 ### Level of Use:
 - AI assistance was used **strictly as a support tool** (approx. 10% of the work)
