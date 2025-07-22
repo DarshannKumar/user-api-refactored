@@ -90,12 +90,5 @@ Werkzeug 2.3.6
 
 SQLite3 (built-in with Python)
 
-Happy hacking! ⚡
+Happy coding! ⚡
 
-yaml
-Copy
-Edit
-
----
-
-Want me to drop this into your zip and regenerate the complete final project folder too?
